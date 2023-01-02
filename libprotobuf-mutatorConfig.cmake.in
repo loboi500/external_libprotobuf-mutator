@@ -1,5 +1,3 @@
-include(CMakeFindDependencyMacro)
-
-find_dependency(Protobuf REQUIRED)
-
-include("${CMAKE_CURRENT_LIST_DIR}/libprotobuf-mutatorTargets.cmake")
+version https://git-lfs.github.com/spec/v1
+oid sha256:b729e113892c7d0f0b28ff2de5124efff62ce3bbcbe198f47fdf6b235c7150f3
+size 141

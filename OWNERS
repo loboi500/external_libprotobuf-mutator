@@ -1,5 +1,3 @@
-include platform/system/core:/janitors/OWNERS
-
-# Owners from upstream & dynamic-tools@
-vitalybuka@google.com
-mitchp@google.com
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe9ce670f534d0f63692b77fbd7cb9ea53f336cbcb4010669af7e784d93e2938
+size 127

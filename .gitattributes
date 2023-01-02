@@ -1,0 +1,15 @@
+libprotobuf-mutator.pc.in filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+MODULE_LICENSE_APACHE2 filter=lfs diff=lfs merge=lfs -text
+port filter=lfs diff=lfs merge=lfs -text
+AUTHORS filter=lfs diff=lfs merge=lfs -text
+examples filter=lfs diff=lfs merge=lfs -text
+Android.bp filter=lfs diff=lfs merge=lfs -text
+cmake filter=lfs diff=lfs merge=lfs -text
+libprotobuf-mutatorConfig.cmake.in filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+src filter=lfs diff=lfs merge=lfs -text
+CMakeLists.txt filter=lfs diff=lfs merge=lfs -text
+CONTRIBUTING filter=lfs diff=lfs merge=lfs -text
